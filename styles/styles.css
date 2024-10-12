@@ -64,3 +64,95 @@
   height: 65px;
   padding: 21px 24px 21px 24px;
 }
+
+/* Goal section style */
+
+.goal-content {
+  margin: 74px 152px 0 148px;
+  max-width: 1140px;
+  border-radius: 16px;
+  background-color: rgba(13, 19, 33, 0.02);
+  padding: 80px 97px 0px 97px;
+}
+
+.goal-details {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 48px;
+  max-width: 852px;
+}
+
+.goal-title {
+  font-size: 32px;
+  font-weight: 800;
+  line-height: 37px;
+  margin: 0 47px 24px 47px;
+  text-align: center;
+}
+
+.goal-description {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  margin-bottom: 48px;
+  text-align: center;
+  max-width: 852px;
+}
+
+.objective {
+  display: flex;
+  text-align: left;
+  margin-bottom: 48px;
+  padding: 48px 0;
+}
+
+.objective-title {
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 36px;
+  max-width: 390px;
+  margin-bottom: 16px;
+  margin-top: 10.5px;
+}
+
+.objective-description {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  margin-bottom: 32px;
+}
+
+.objective-content {
+  max-width: 477px;
+  margin-right: 99px;
+}
+
+.first-image {
+  max-width: 259px;
+  padding: 3px 13px 19px 0;
+}
+
+.second-image {
+  margin-right: 32px;
+  padding: 0 16px 31px 0;
+  height: 208px;
+  width: 223px;
+}
+
+.third-image {
+  width: 206px;
+  height: 187px;
+  padding: 26px 16px;
+}
+
+.secondary-btn {
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 23px;
+  box-sizing: border-box;
+  border: 1px solid rgb(13, 19, 33);
+  opacity: 0.7;
+  padding: 12px 20px;
+  margin-bottom: 10.5px;
+}
