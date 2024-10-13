@@ -327,6 +327,7 @@ footer {
   max-width: 1140px;
   display: flex;
   justify-content: space-between;
+  align-items: center;
   margin: 0 auto;
   padding: 15px 0;
 }
@@ -334,8 +335,4 @@ footer {
 .footer .title {
   font-size: 20px;
   font-weight: 600;
-}
-
-.footer .visit {
-  padding: 8px 0;
 }
