@@ -222,7 +222,6 @@ iframe {
   align-items: center;
   text-align: left;
   margin: 48px 0;
-  max-width: 1120px;
 }
 
 .target-content .box {
@@ -273,7 +272,7 @@ iframe {
   background-position: center;
   border-radius: 16px;
   padding: 64px 48px 64px 48px;
-  max-width: 1010px;
+  max-width: 1044px;
 }
 
 .support .title {
@@ -325,7 +324,7 @@ footer {
 }
 
 .footer {
-  max-width: 1120px;
+  max-width: 1140px;
   display: flex;
   justify-content: space-between;
   margin: 0 auto;
