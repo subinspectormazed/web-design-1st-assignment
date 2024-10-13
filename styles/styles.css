@@ -66,6 +66,12 @@
 }
 
 /* Goal section style */
+.goal {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
 
 .goal-content {
   margin: 74px 152px 0 148px;
@@ -76,9 +82,6 @@
 }
 
 .goal-details {
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
   padding: 48px;
   max-width: 852px;
 }
@@ -88,7 +91,6 @@
   font-weight: 800;
   line-height: 37px;
   margin: 0 47px 24px 47px;
-  text-align: center;
 }
 
 .goal-description {
@@ -227,8 +229,8 @@ iframe {
 .target-content .box {
   padding: 40px;
   border-radius: 16px;
-  background: rgba(182, 17, 97, 0.826);
   margin: 12px;
+  min-height: 305px;
 }
 
 .target-content .img {
