@@ -264,7 +264,7 @@ iframe {
   align-items: center;
   text-align: center;
   margin: 0 auto;
-  background-image: url("../assets/handshake.jpg");
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.3),rgba(0, 0, 0, 0.3),rgba(0, 0, 0, 0.3)) ,url("../assets/handshake.jpg");
   background-size: cover;
   background-position: center;
   border-radius: 16px;
